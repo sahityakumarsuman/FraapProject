@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FraapProject</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="login_title">Signed in as: %s</string>
+    <string name="login_in">Signed in</string>
+    <string name="log_in">Signing in…</string>
+    <string name="log_out">Signed out</string>
+    <string name="log_error_message">"Error: please check logs."</string>
+    <string name="api_enabling_problem">
+       There is Some problem in your api access. Please check your project configuration in your Google Developer Console or your, There might be some problem with your internet too.
+    </string>
+    <string name="loading">Loading…</string>
+    <string name="auth_code_fmt">Auth Code: %s</string>
+    <string name="id_token_fmt">ID Token: %s</string>
+
+
+    <string name="play_services_error_fmt">Google Play Services Error: %i</string>
+
+
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+
+
+    <string name="desc_google_icon">Google Logo</string>
+
+
+    <string name="contacts_permission_rationale">Contacts access is needed in order to retrieve your email address.</string>
+
+
+    <string name="main_activity_name">SignInActivity</string>
+
+    <string name="server_client_id">894310183291-q59mdp5pvvg1j9s174f9n8qofo3pgpqn.apps.googleusercontent.com</string>
+</resources>
